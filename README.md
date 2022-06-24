@@ -16,11 +16,17 @@ Algoritmul citeste un numar si afiseaza numarul impreuna cu alte 2 numere prime 
 Rezolvare notepad:
 
  a  |  b  |  c  |
+ 
 -----------------
+
  5  | 0-2 | 0-3 |     5 2 3 (numerele prime care insumate dau 5)
+ 
  7  |  2  |  3  |
+ 
  4  |  2  |  5  |
+ 
  6  |  2  |  5  |
+
 ------------------
 
 desc(5,0,0)
